@@ -121,6 +121,18 @@ Sobre todo interesante para "pendiente de revisión" o "Spam"
 
 ## Clase 508
 ### Herramientas
+- Importar de otra plataforma o wordpress (se hace mediante instalación de plugins)
+- Exportar, podemos crear un archivo de exportación de nuestro wp a nivel completo, entradas u otro tipo de contenido seccionado -> este tipo de archivos se puede emplear para la importación (punto anterior)
+- Exportar datos personales
+- Borrar Datos Personales
+- **Conforme añadamos plugins aquí irán apareciendo más apartados para configuración de los mimsos**
+
+## Clase 509
+### Usuarios
+
+
+
+
 
 
 
