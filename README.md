@@ -39,9 +39,10 @@ Barra superior, siempre presente tanto en el backend como en la parte pública, 
 
 ## Clase 496
 ### Escritorio del Panel
+Panel lateral del apartado Admin o Backend. Aquí es donde se realizan las configuracioens e instalaciones necesarias para ir editando nuestra web
 
-
-
+## Clase 497
+### Crear Nuevas Entradas
 
 
 
