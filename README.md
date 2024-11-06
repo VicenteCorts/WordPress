@@ -129,6 +129,15 @@ Sobre todo interesante para "pendiente de revisión" o "Spam"
 
 ## Clase 509
 ### Usuarios
+Podemos administrar a cualquier usuario, nuestra web no tiene por qué tener siempre un apartado de registro.
+- Suscriptor: no hace nada
+- Colaborador: tiene acceso a comentarios, entradas y poco más
+- Autor: igual que colaborador pero con acceso al apartado de **Medios**
+- Editor: Añadir categorías, páginas, gestion en general
+- Administrador: control total
+
+## Clase 510
+### Instalar y configurar temas
 
 
 
