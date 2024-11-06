@@ -106,7 +106,11 @@ Sobre todo interesante para "pendiente de revisión" o "Spam"
 
 ## Clase 505
 ### Ajustes de Medios 
+- Caracterísiticas de los elementos que subimos a la biblioteca de Medios (imágenes menos pesadas)
+- Organización de los medios, por fecha de subida
 
+## Clase 505
+### Ajustes de Enlaces Permanentes
 
 
 
