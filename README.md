@@ -20,15 +20,44 @@ https://wordpress.org/download/
 - Tendremos que abrir phpmyadmin y crear una BBDD para hacer que esté conectada con WP
 - **aprendiendo-wp** y **utf8mb4_general_ci**
 - Seguimos con el instalador y le proporcionamos los datos de la BBDD recien creada
-> Nombre de la BBDD: aprendiendo-wp
-> Nombre de usuario (de la BD): root
-> Contraseña (del usuario en la BBDD): 
-> Servidor de la BBDD: localhost
-> Prefijo de tabla: wp_
+> - Nombre de la BBDD: aprendiendo-wp
+> - Nombre de usuario (de la BD): root
+> - Contraseña (del usuario en la BBDD): 
+> - Servidor de la BBDD: localhost
+> - Prefijo de tabla: wp_
 - Seguimos con la instalación y ahora debemos rellenar los datos de la web
-> título del sitio: SuperBlog
-> Nombre del ususario: admin
-> Contraseña: 1234
-> Correo: admin@admin.com
-> Visibilidad:  la marcamos si es por programar de chill, si la vamos a publicar la desmarcamos
-### Acceso: url_finalizada_en/wp-login
+> - título del sitio: SuperBlog
+> - Nombre del ususario: admin
+> - Contraseña: 1234
+> - Correo: admin@admin.com
+> - Visibilidad:  la marcamos si es por programar de chill, si la vamos a publicar la desmarcamos
+**Acceso: url_finalizada_en/wp-login**
+
+## Clase 495
+### La Barra de Herramientas
+Barra superior, siempre presente tanto en el backend como en la parte pública, siempre y cuando estemos loggeados.
+
+## Clase 496
+### Escritorio del Panel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
