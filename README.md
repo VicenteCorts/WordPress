@@ -56,8 +56,12 @@ Añadir nueva -> Para crear nueva entrada
 
 ## Clase 499
 ### Categorías Creación y Gestión
+Pdemos crear categorias en su apartado.
+- El slug es el segmento de url que queremos que aparezca para referenciar a una categoría
+- En etiquetas el funcionamiento es el mimso, sirve para mejorar el SEO
 
-
+## Clase 500
+### Medios
 
 
 
