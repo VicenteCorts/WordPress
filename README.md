@@ -94,8 +94,18 @@ Sobre todo interesante para "pendiente de revisión" o "Spam"
 - Motores de búsqueda
 
 ## Clase 504
-###
+### Ajustes de Comentarios
+- Avisar a sitios web cuando usamos enlaces suyos
+- comentarios en articulos nuevos
+- datos de autores
+- usuarios registrados
+- aprobar comentarios
+- Moderación de comentarios
+- Lista negra
+- Avatares
 
+## Clase 505
+### Ajustes de Medios 
 
 
 
