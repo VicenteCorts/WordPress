@@ -43,7 +43,12 @@ Panel lateral del apartado Admin o Backend. Aquí es donde se realizan las confi
 
 ## Clase 497
 ### Crear Nuevas Entradas
+Añadir nueva -> Para crear nueva entrada
+- Creamos nuestra nueva entrada y trasteamos con ella y las posibilidades que ofrece
+- interesante el botón de leer más dentro de los Posts
 
+## Clase 498
+### Entradas Avanzadas
 
 
 
