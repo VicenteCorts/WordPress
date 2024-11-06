@@ -69,7 +69,11 @@ Aquí tendremos todos los archivos que subamos desde imágenes hasta pdf audios 
 Funciona igual que la parte de entradas. Aquí es donde se elaboran las paginas de neustra web. Posteriormente deberan ser añadidas al menú en otra de las secciones del panel de Administrador
 
 ## Clase 502
-###
+### Gestionar Comentarios
+Sobre todo interesante para "pendiente de revisión" o "Spam"
+
+## Clase 503
+### Ajustes Generales
 
 
 
