@@ -74,6 +74,40 @@ Sobre todo interesante para "pendiente de revisión" o "Spam"
 
 ## Clase 503
 ### Ajustes Generales
+- Cambiar Nombre de la web
+- Cambiar Descripción de la web
+- Cambiar la URL (por si cambiamos de dominio)
+- Dirección de correo, llegan todas las notificiaciones del sitio web
+- Miembros: cualquiera puede registrarse
+- Usuarios (sin permisos por default)
+- Idioma
+- Zona horario
+- Semana
+- (...)
+### Ajustes de Escritura
+- Categoría predeterminada
+- (...)
+### Ajustes de Lectura
+- Portada
+- máximo de entradas a mostrar
+- texto completo o Resumen (por entrada)
+- Motores de búsqueda
+
+## Clase 504
+###
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
