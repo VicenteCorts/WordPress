@@ -49,8 +49,13 @@ Añadir nueva -> Para crear nueva entrada
 
 ## Clase 498
 ### Entradas Avanzadas
+- Categorías
+- Editor de código
+- Etiquetas SEO (SEO y categorización)
+- Imagen destacada
 
-
+## Clase 499
+### Categorías Creación y Gestión
 
 
 
