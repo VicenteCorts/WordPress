@@ -62,9 +62,10 @@ Pdemos crear categorias en su apartado.
 
 ## Clase 500
 ### Medios
+Aquí tendremos todos los archivos que subamos desde imágenes hasta pdf audios o lo que sea
 
-
-
+## Clase 501
+### Páginas
 
 
 
