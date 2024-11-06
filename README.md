@@ -109,9 +109,13 @@ Sobre todo interesante para "pendiente de revisión" o "Spam"
 - Caracterísiticas de los elementos que subimos a la biblioteca de Medios (imágenes menos pesadas)
 - Organización de los medios, por fecha de subida
 
-## Clase 505
+## Clase 506
 ### Ajustes de Enlaces Permanentes
+- Para webs de noticias recomienda "Día y nombre"
+- Para webs con contenido evergreen "Nombre de la entrada" -> Mejor puntuación SEO google para contenido evergreen
 
+## Clase 507
+### Ajustes de Privacidad
 
 
 
