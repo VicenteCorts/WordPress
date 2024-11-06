@@ -116,8 +116,11 @@ Sobre todo interesante para "pendiente de revisión" o "Spam"
 
 ## Clase 507
 ### Ajustes de Privacidad
+- Podemos crear una página para política de privacidad
+- También se puede editar y publicar con normalidad
 
-
+## Clase 508
+### Herramientas
 
 
 
