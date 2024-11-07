@@ -158,13 +158,20 @@ SEO: YoastSEO
 
 ## Clase 515
 ### Plugins Interesantes
-
+Explicación de Yoast Seo (...)
+Contact form 7 -> Para formularios de contacto
 
 ## Clase 516
 ### Más Plugins Interesantes
-
-
-
+**La web se va ralentizando cuanto más elementos se le van añadiendo**
+- Es importante por ello intalar un sistema de caché: **WP Super Caché**
+- Para artículos relacionados: **WP Related Post**
+- Antispam: **Anti Spam**
+- Cookies: **GDPR Cookie Consent**
+- RRSS: **Social Bar**
+- **Woocommerce**
+- Learning
+- etc.
 
 
 
