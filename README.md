@@ -138,9 +138,10 @@ Podemos administrar a cualquier usuario, nuestra web no tiene por qué tener sie
 
 ## Clase 510
 ### Instalar y configurar temas
+Poca información útil sobre Temas (Victor Robles)
 
-
-
+## Clase 511
+### 
 
 
 
