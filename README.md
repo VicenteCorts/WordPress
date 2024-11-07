@@ -156,11 +156,11 @@ MUY INTERESANTE ESTO SI
 ### Plugins
 SEO: YoastSEO
 
-## Clase 514
+## Clase 515
 ### Plugins Interesantes
 
 
-## Clase 514
+## Clase 516
 ### Más Plugins Interesantes
 
 
