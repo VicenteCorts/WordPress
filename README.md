@@ -141,9 +141,11 @@ Podemos administrar a cualquier usuario, nuestra web no tiene por qué tener sie
 Poca información útil sobre Temas (Victor Robles)
 
 ## Clase 511
-### 
+### Widgets
+BLoques de widgets, más interesante de lo que esperaba, yo no los había usado antes.
 
-
+## Clase 512
+### Menús
 
 
 
