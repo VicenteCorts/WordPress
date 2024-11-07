@@ -148,6 +148,12 @@ BLoques de widgets, más interesante de lo que esperaba, yo no los había usado 
 ### Menús
 Poca información útil
 
+## Clase 513
+### Editor de Código
+MUY INTERESANTE ESTO SI
+
+## Clase 514
+### Plugins
 
 
 
